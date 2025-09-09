@@ -1,6 +1,6 @@
 # Olá, sejam todos muito Bem Vindos(as) a esta apresentação do meu portfólio!
 
-![image](https://i.imgur.com/iIr2S8E.png)
+![image](https://i.imgur.com/WKOdOw4.png)
 
 ## Ferramentas utilizadas:
 
