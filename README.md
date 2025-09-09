@@ -1,6 +1,6 @@
 # Olá, Bem vindo ao projeto de exemplo de portfolio da Alura.
 
-![image](https://imgur.com/gallery/foto-para-portfolio-4BtqREr#iIr2S8E)
+![image](https://i.imgur.com/iIr2S8E.png)
 
 ## Ferramentas utilizadas:
 
