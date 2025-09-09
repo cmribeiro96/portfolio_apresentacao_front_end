@@ -1,4 +1,4 @@
-# Olá, Bem vindo ao projeto de exemplo de portfolio da Alura.
+# Olá, seja muito Bem vindo(a) a apresentação do meu portfolio.
 
 ![image](https://i.imgur.com/iIr2S8E.png)
 
