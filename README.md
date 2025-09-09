@@ -1,4 +1,4 @@
-# Olá, sejam todos muito Bem Vindos(as) a esta apresentação do meu portfolio!
+# Olá, sejam todos muito Bem Vindos(as) a esta apresentação do meu portfólio!
 
 ![image](https://i.imgur.com/iIr2S8E.png)
 
