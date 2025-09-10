@@ -1,13 +1,16 @@
 @import url('https://fonts.googleapis.com/css2?family=Krona+One&family=Montserrat:wght@400;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Prosto+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Edu+NSW+ACT+Hand+Pre:wght@400..700&family=Prosto+One&display=swap');
 
 :root {
     --cor-primaria: #000000;
     --cor-secundaria: #F6F6F6;
-    --cor-terciaria: #22D4FD;    
+    --cor-terciaria: #7622fd;    
     --cor-hover: #272727;
 
-    --fonte-primaria: 'Krona One', sans-serif;
+    --fonte-primaria: 'Prosto One', sans-serif;
     --fonte-secundaria: 'Montserrat', sans-serif;
+    --fonte-terciaria: "Edu NSW ACT Hand Pre", cursive;
 }
 *{
     margin: 0;
@@ -62,6 +65,18 @@ body{
     font-family: var(--fonte-secundaria);
 }
 
+.minha-imagem{
+    position: relative;
+    top: -150px;
+    margin-right: 80px;
+}
+
+.minha-imagem-about{
+    position: relative;
+    top: -110px;
+    margin-right: 92px;
+}
+
 .apresentacao__links{
     display: flex;
     flex-direction: column;
@@ -97,15 +112,19 @@ body{
 .apresentacao__links__navegacao:hover{
     background-color: var(--cor-hover);
 }
+
+.linkedin-icon{
+    padding-left: 24px;
+}
+
 .rodape{
     color: var(--cor-primaria);
     background-color: var(--cor-terciaria);
-    padding: 24px;
-    font-style: italic;    
+    padding: 24px;    
     text-align: center;
-    font-family: var(--fonte-secundaria);
+    font-family: var(--fonte-primaria);
     font-size: 1.5rem; /* 24px */
-    font-weight: 400;
+    font-weight: 400;    
 }
 
 @media (max-width:1200px) {
