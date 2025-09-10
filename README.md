@@ -1,4 +1,4 @@
-# Sejam bem vindo(a) ao meu Portfólio!
+# Seja bem vindo(a) ao meu Portfólio!
 
 ![image](https://i.imgur.com/pcBYEow.png)
 
