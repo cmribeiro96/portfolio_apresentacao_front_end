@@ -6,6 +6,8 @@
 
 * HTML
 
+* JavaScript
+
 * CSS
 
 * Flex-box
