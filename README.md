@@ -1,6 +1,6 @@
 # Seja bem vindo(a) ao meu Portfólio!
 
-![image](https://i.imgur.com/pcBYEow.png)
+![image](https://i.imgur.com/N2aG1NP.png)
 
 ## Ferramentas utilizadas:
 
